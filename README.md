@@ -139,14 +139,6 @@ Le paramètre `--seed` permet de reproduire une simulation :
 
 ```bash
 python main.py --seed 42
-```
 
-## Projet CV
-
-**Projet Data Science — Analyse et simulation EuroMillions**
-
-> Développement en Python d'un moteur d'analyse statistique combinant simulation Monte Carlo, algorithme génétique, feature engineering et fonction de scoring pour l'exploration de combinaisons à partir de données historiques.
-
-## Licence
 
 MIT.
